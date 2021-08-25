@@ -38,3 +38,23 @@ function isEven(input) {
     return input % 2 == 0;
 }
 
+function isVowel(input) {
+if (input === "a") {
+    return true;
+}if (input === "A") {
+    return true;
+    }else{
+    return false;
+    }
+}
+// var vowels = ["a","e","i","o","u", "A","E","I","O","U"]
+// function isVowel(input) {
+//     if ( input === vowels || input === vowels.toUpperCase()){
+//             return true;
+//         }
+// }
+
+function add() {
+
+}
+
